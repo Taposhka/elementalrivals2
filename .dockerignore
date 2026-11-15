@@ -1,0 +1,8 @@
+.git
+.godot
+qa
+*.zip
+*.pck
+*.exe
+verify_*.gd
+export_presets.cfg

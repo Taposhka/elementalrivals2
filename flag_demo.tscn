@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://drdn3xsf27v2d"]
+
+[ext_resource type="Script" uid="uid://g63foiecp0im" path="res://combat_arena.gd" id="1"]
+
+[node name="FlagDemo" type="Node2D" unique_id=916161828]
+script = ExtResource("1")

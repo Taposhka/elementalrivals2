@@ -1,0 +1,98 @@
+{
+  "fire_dash": {
+    "source": "djartmusic-short-fire-whoosh_1-317280.mp3",
+    "start": 1.445,
+    "seconds": 0.28,
+    "gain_db": -3.79
+  },
+  "fire_burst": {
+    "source": "djartmusic-short-fire-whoosh_1-317280.mp3",
+    "start": 1.09,
+    "seconds": 1.1,
+    "gain_db": -2.45
+  },
+  "water_attack": {
+    "source": "dragon-studio-wave-on-the-shore-390306.mp3",
+    "start": 0.625,
+    "seconds": 0.3,
+    "gain_db": 7.04
+  },
+  "water_burst": {
+    "source": "dragon-studio-wave-on-the-shore-390306.mp3",
+    "start": 0.21,
+    "seconds": 1.15,
+    "gain_db": 9.51
+  },
+  "ice_attack": {
+    "source": "dragon-studio-winter-wind-402331.mp3",
+    "start": 13.475,
+    "seconds": 0.23,
+    "gain_db": -2.63
+  },
+  "ice_burst": {
+    "source": "dragon-studio-winter-wind-402331.mp3",
+    "start": 0.61,
+    "seconds": 1.4,
+    "gain_db": 3.25
+  },
+  "electric_attack": {
+    "source": "freesound_community-electricity-106510.mp3",
+    "start": 0.105,
+    "seconds": 0.18,
+    "gain_db": 1.4
+  },
+  "electric_burst": {
+    "source": "freesound_community-electricity-106510.mp3",
+    "start": 0.08,
+    "seconds": 0.48,
+    "gain_db": -0.59
+  },
+  "wind_attack": {
+    "source": "soundreality-whoosh-bright-panning-6-620360.mp3",
+    "start": 4.185,
+    "seconds": 0.24,
+    "gain_db": -4.15
+  },
+  "wind_burst": {
+    "source": "alexzavesa-strong-wind-1-463603.mp3",
+    "start": 7.505,
+    "seconds": 1.5,
+    "gain_db": 2.05
+  },
+  "thunder_burst": {
+    "source": "pwlpl-loud-thunder-sound-effect-359272.mp3",
+    "start": 0.12,
+    "seconds": 1.9,
+    "gain_db": -4.88
+  },
+  "steam_burst": {
+    "source": "dragon-studio-steam-hissing-2-386162.mp3",
+    "start": 0.07,
+    "seconds": 0.85,
+    "gain_db": -2.35
+  },
+  "explosion": {
+    "source": "kalsstockmedia-explosion-3-274684.mp3",
+    "start": 0.08,
+    "seconds": 1.5,
+    "gain_db": -6.36
+  },
+  "combo": {
+    "source": "soundreality-whoosh-bright-panning-6-620360.mp3",
+    "start": 4.185,
+    "seconds": 0.55,
+    "gain_db": -1.73
+  },
+  "swipe": {
+    "source": "floraphonic-transitional-swipe-3-211685.mp3",
+    "start": 0.335,
+    "seconds": 0.16,
+    "gain_db": -3.36
+  },
+  "hit": {
+    "source": "floraphonic-transitional-swipe-3-211685.mp3",
+    "start": 0.335,
+    "seconds": 0.075,
+    "gain_db": -4.97
+  }
+}
